@@ -1,5 +1,5 @@
-اول شيء حطي هذا الامر في التيرمنال العادي حق الجهاز 
-#curl -sL https://firebase.tools | bash
+- اول شيء حطي هذا الامر في التيرمنال العادي حق الجهاز 
+- #curl -sL https://firebase.tools | bash
 بعدها راح يطلب Password دخليه 
 بعده سوي هذا الامر 
 #firebase login
